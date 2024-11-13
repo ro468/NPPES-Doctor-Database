@@ -6,7 +6,7 @@ This project conducts an in-depth analysis of healthcare provider data from CMS 
 ## Data Source
 The dataset is sourced from the CMS National Plan and Provider Enumeration System (NPPES), specifically from NPI Files:
 - **Monthly Full Replacement Files**: Complete NPI records.
-- **Deactivation Files**: Records of deactivated NPIs, often due to job transitions, retirement, or death. ('NPPES Deactivated NPI Report 20241014.xlsx')
+- **Deactivation Files**: Records of deactivated NPIs, often due to job transitions, retirement, or death. (`NPPES Deactivated NPI Report 20241014.xlsx`)
 
 ## Dataset Overview
 The primary file (`npidata_pfile_20050523-20241013.csv`) is approximately 10 GB in size and contains:
